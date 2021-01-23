@@ -80,7 +80,7 @@
 
 密码为```config.php```中设置的```INITPASS```
 
-<img src="C:\Users\neptunevon\AppData\Roaming\Typora\typora-user-images\image-20210121043339233.png" alt="image-20210121043339233" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/01/23/PWhqU2LklSfoGMO.png" alt="image-20210121043339233" style="zoom:50%;" />
 
 #### 3.保持页面开启即可,监控会自动开启
 
@@ -98,7 +98,7 @@
 
 打开如图页面
 
-<img src="C:\Users\neptunevon\AppData\Roaming\Typora\typora-user-images\image-20210121043648507.png" alt="image-20210121043648507" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/01/23/rByVH96LEjPxIOS.png" alt="image-20210121043648507" style="zoom:50%;" />
 
 
 
